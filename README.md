@@ -57,6 +57,5 @@ The Wiki includes:
  Changelog
 
 v1.7
-- New home screen design  
-- Improved stability  
-- Optimized for Android 8  
+- Improved Stability
+- Improved Texts
