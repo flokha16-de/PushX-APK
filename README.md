@@ -1,7 +1,7 @@
 
- PushX 1.7 – Android App
+ PushX – Android App
 
-Welcome to PushX 1.7, a lightweight Android app built with JStudio and optimized for Android 8 and above.
+Welcome to PushX, a lightweight Android app built with JStudio and optimized for Android 8 and above.
 
 This repository contains the APK file and a full Wiki with documentation.
 
@@ -51,11 +51,3 @@ The Wiki includes:
 3. Allow “Unknown Sources” if required  
 4. Install  
 5. Launch PushX  
-
----
-
- Changelog
-
-v1.7
-- Improved Stability
-- Improved Texts
