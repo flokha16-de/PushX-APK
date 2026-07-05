@@ -33,7 +33,6 @@ You can download the APK in this Repo.
 
 Full documentation is available in the Wiki
 
-
 The Wiki includes:
 
 - Technical details  
@@ -50,4 +49,13 @@ The Wiki includes:
 2. Open it on your device  
 3. Allow “Unknown Sources” if required  
 4. Install  
-5. Launch PushX  
+5. Launch PushX
+
+---
+
+PushX 1.9 is in danger. It may be long for PushX 1.9
+
+ Reason:
+
+- Files missing
+- JStudio crashing
