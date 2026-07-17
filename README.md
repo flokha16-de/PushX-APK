@@ -50,12 +50,3 @@ The Wiki includes:
 3. Allow “Unknown Sources” if required  
 4. Install  
 5. Launch PushX
-
----
-
-PushX 1.9 is in danger. It may be long for PushX 1.9
-
- Reason:
-
-- Files missing
-- JStudio crashing
